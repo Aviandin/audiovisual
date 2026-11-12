@@ -4,10 +4,9 @@ Audiovisualizer turns sound into colorful, reactive visuals. Capture audio playi
 
 ## Features
 
-- **Choose your audio source:** visualize sound from your device or from a microphone.
+- **Choose your audio source:** visualize sound from your device and/or from a microphone.
 - **Dynamic RGB colors:** enable a shifting RGB effect and adjust its speed.
 - **Static colors:** choose a steady color instead of a changing RGB effect.
-- **Customizable settings:** tune the visualizer to the look and feel you want.
 
 ## Getting started
 
